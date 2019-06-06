@@ -18,3 +18,7 @@ Task2 doesn't need any external dependencies, but in directory Task2/tests there
 npm i
 npm test
 ```
+
+### Documentation
+
+I prepared basic documentation in JSDoc for Task2. To see it, open Task2/out/example.js.html in browser.
